@@ -13,7 +13,8 @@
 - .
 
 ## 💻 Keybinds
-<img src="IMAGENS/001.png" align="right" width="400">
+<img src="IMAGES/001.png" align="right" width="400">
+
 - Launcher:    `Super + d`
 - Volume:      `Super + v`
 - Print:       `PrtSc (print_screen)`
