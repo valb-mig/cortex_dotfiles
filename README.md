@@ -30,6 +30,7 @@
 <img src="IMAGES/polybarwall.png" align="center" width="1000">
 
 made by [Migxt](https://github.com/Migxt)
+
 vscode theme: [Cortex_Theme](https://github.com/Migxt/Cortex-vscode)
 
 Thx to come here, more updates soon :D
