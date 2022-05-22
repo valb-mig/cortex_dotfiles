@@ -13,14 +13,13 @@
 - .
 
 ## 💻 Keybinds
-<img src="IMAGES/001.png" align="right" width="500">
+<img src="IMAGES/001.png" align="right" width="508">
 
 - Launcher:    `Super + d`
 - Volume:      `Super + v`
 - Print:       `PrtSc (print_screen)`
 - Powermenu:   `Super + k` 
 - Quick_Links: `Super + q`
-- 
 - 
 - 
 - 
