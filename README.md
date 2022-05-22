@@ -1,7 +1,7 @@
 <h1 align="center">👁️</h1>
 
 ## 🧠 Setup
-<img src="IMAGES/rice.png" align="left" width="400">
+<img src="IMAGES/rice.png" align="left" width="410">
 
 - os: [Pop-os](https://pop.system76.com/)
 - wm: [Bspwm](https://github.com/baskerville/bspwm)
@@ -13,10 +13,13 @@
 - .
 
 ## 💻 Keybinds
-<img src="IMAGES/001.png" align="right" width="400">
+<img src="IMAGES/001.png" align="right" width="500">
 
 - Launcher:    `Super + d`
 - Volume:      `Super + v`
 - Print:       `PrtSc (print_screen)`
 - Powermenu:   `Super + k` 
 - Quick_Links: `Super + q`
+- 
+- 
+- 
