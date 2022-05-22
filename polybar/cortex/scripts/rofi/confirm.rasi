@@ -1,0 +1,34 @@
+/* Confirm Dialog */
+
+@import "colors.rasi"
+
+* {
+    background-color:       @bg;
+    text-color:             @fg;
+	font:				 	"Cascadia Code Bold 10";
+}
+
+element-icon {
+ background-color: inherit;
+ text-color: inherit;
+}
+
+element-text {
+ background-color: inherit;
+ text-color: inherit;
+}
+
+window {
+    width:      			225px;
+    padding:    			25px;
+    border:					0px;
+    border-radius:          12px;
+    border-color:           @bg1;
+    location:               center;
+    y-offset:               -2em;
+}
+
+entry {
+    expand: 				true;
+    text-color:				@bg2;
+}

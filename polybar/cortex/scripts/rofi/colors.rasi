@@ -1,0 +1,19 @@
+/* colors */
+
+* {
+  
+background: #111111;
+white:      #d3d3d3;
+
+gray:   #6d6d6d;
+blks:   #6d6d6d;
+blk:   #252525;
+
+red:      #FF4D86;
+blue:     #41C2F0;
+cyan:     #4DFFC7;
+green:    #65FE7D;
+yel:      #FFB461;
+ppl:      #BF74EE;
+  
+}

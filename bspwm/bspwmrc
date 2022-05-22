@@ -1,0 +1,58 @@
+#! /bin/sh
+
+#------| Auto // Start |------#
+
+picom --experimental-backends &
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+#---------| Monitor |---------#
+
+# bspc monitor -d I II III IV V #VI VII VIII IX X
+
+bspc monitor -d 1 2 3 4 5
+
+#---| Apparence // Config |----#
+
+bspc config border_width        1
+bspc config window_gap          6
+bspc config normal_border_color \#111111
+bspc config focused_border_color \#252525
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+bspc config focus_follows_pointer true
+
+#----| Rules // Presets |------#
+
+#Examples:
+#|
+#bspc rule -a Gimp desktop='^8' state=floating follow=on
+#bspc rule -a Chromium desktop='^2'
+#bspc rule -a mplayer2 state=floating
+#bspc rule -a Kupfer.py focus=on
+#bspc rule -a Screenkey manage=off
+#-----------------------------#
+
+#Config:
+#|
+bspc rule -a firefox desktop='^1' follow=off focus=off
+bspc rule -a discord desktop='^2' follow=off focus=off
+     bspc rule -a "" desktop='^3' follow=off focus=off fullscreen=on
+   bspc rule -a Code desktop='^4' follow=off focus=off
+   bspc rule -a Gimp desktop='^5' follow=off focus=off
+   bspc rule -a Toolkit desktop='^1' state=floating follow=on
+     bspc rule -a Picture-in-Picture state=floating
+#-----| Auto // Start |--------#
+
+#Polybar:
+#|
+$bash .config/polybar/cortex/launch.sh &
+
+#Wallpaper:
+#|
+${HOME}/.fehbg
+
+#Mouse Fix:
+#|
+xsetroot -cursor_name left_ptr &

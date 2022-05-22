@@ -1,0 +1,34 @@
+/* Confirm Dialog */
+
+@import "colors.rasi"
+
+element-text {
+background-color: inherit;
+text-color: inherit;
+}
+
+element-icon {
+background-color: inherit;
+text-color: inherit;
+}
+
+* {
+    background-color:       @background;
+    text-color:             @foreground;
+	font:				 	"Iosevka Nerd Font 12";
+}
+
+window {
+    width:      			225px;
+    padding:    			25px;
+    border:					0px;
+    border-radius:          12px;
+    border-color:           @accent;
+    location:               center;
+    y-offset:               -20px;
+}
+
+entry {
+    expand: 				true;
+    text-color:				@accent;
+}
