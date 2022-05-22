@@ -20,8 +20,11 @@
 - Print:       `PrtSc (print_screen)`
 - Powermenu:   `Super + k` 
 - Quick_Links: `Super + q`
-- 
-- 
-- 
-- 
-- 
+- .....
+- ....
+- ...
+- ..
+- .
+
+## 🔧 End :)
+<img src="IMAGES/polybarwall.png" align="center" width="1000">
