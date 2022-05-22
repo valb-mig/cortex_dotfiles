@@ -10,3 +10,6 @@
 - bar (wip): [Polybar](https://github.com/polybar/polybar)
 - compositor: [Picom](https://github.com/yshui/picom)
 - launcher: [Rofi](https://github.com/davatorium/rofi)
+- 
+- 
+- 
