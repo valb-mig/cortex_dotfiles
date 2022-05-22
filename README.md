@@ -10,6 +10,13 @@
 - bar (wip): [Polybar](https://github.com/polybar/polybar)
 - compositor: [Picom](https://github.com/yshui/picom)
 - launcher: [Rofi](https://github.com/davatorium/rofi)
-- 
-- 
-- 
+- ...
+- ..
+- .
+
+## 💻 Keybinds
+- Launcher:    'Super + d'
+- Volume:      'Super + v'
+- Print:       'PrtSc (print_screen)'
+- Powermenu:   'Super + k' 
+- Quick_Links: 'Super + q'
