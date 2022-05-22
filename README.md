@@ -1,5 +1,5 @@
 <h1 align="center"><small>
-'Cortex Dotfiles'
+`Cortex Dotfiles`
 </small></h1>
 
 ## 🧠 Setup
@@ -15,8 +15,8 @@
 - .
 
 ## 💻 Keybinds
-- Launcher:    'Super + d'
-- Volume:      'Super + v'
-- Print:       'PrtSc (print_screen)'
-- Powermenu:   'Super + k' 
-- Quick_Links: 'Super + q'
+- Launcher:    `Super + d`
+- Volume:      `Super + v`
+- Print:       `PrtSc (print_screen)`
+- Powermenu:   `Super + k` 
+- Quick_Links: `Super + q`
